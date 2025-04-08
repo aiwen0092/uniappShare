@@ -1,0 +1,2 @@
+# uniappShare
+手机文件分享到uniapp开发的app应用接收多文件类型
